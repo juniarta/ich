@@ -1,0 +1,42 @@
+[
+  {
+    "userID": "5",
+    "rewards": [
+      {
+        "availableAt": "2023-08-12T17:00:00.000Z",
+        "redeemedAt": "2023-09-11T04:09:23.972Z",
+        "expireAt": "2023-08-13T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-13T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-14T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-14T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-15T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-15T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-16T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-16T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-17T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-17T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-18T17:00:00.000Z"
+      },
+      {
+        "availableAt": "2023-08-18T17:00:00.000Z",
+        "redeemedAt": null,
+        "expireAt": "2023-08-19T17:00:00.000Z"
+      }
+    ]
+  }
+]
